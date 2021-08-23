@@ -1,0 +1,2 @@
+# Secure-message-transfer-by-DNA-computing-based-text-Encryption-and-Decryption-using-RSA-algorithm
+I have developed a model which provides multi layer security containing DNA computing based text Encryption and Decryption using RSA algorithm model. Here I have combined various efficient techniques used in the existing DNA cryptography algorithms and also combined them with RSA algorithm which resulted in a DNA-RSA Hybrid Cryptography system.
